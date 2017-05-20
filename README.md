@@ -7,7 +7,7 @@ to run this locally, clone or download the zip file.
 Make sure you have node and npm installed on your machine.
 cd into the project folder.
 now run:
-***
+```
 > npm install
 > npm start
-***
+```
